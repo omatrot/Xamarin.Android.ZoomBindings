@@ -9,3 +9,5 @@ The Visual Studio Solution is composed of 4 projects:
   - 2 binding projects (ZoomBindings & ZoomUtils)
   - An utility program GenerateZoomBindingsMetadata
   - A demo project ( ZoomDemo)
+
+You can find the associated blog post series starting from [here](http://matrot.tech/2020/04/11/xamarin-android-bindings-part-1/).
