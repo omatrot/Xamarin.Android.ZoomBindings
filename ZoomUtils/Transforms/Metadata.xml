@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<metadata>
+    <remove-node path="/api/package[@name='us.zoom.androidlib.app']/class[@name='ZMLocalFileListAdapter']" />
+    <remove-node path="/api/package[@name='us.zoom.androidlib.widget']/class[@name='ZMHorizontalListView']" />
+    <remove-node path="/api/package[@name='us.zoom.androidlib.app']/class[@name='ZMFileListBaseAdapter']" />
+    <remove-node path="/api/package[@name='us.zoom.androidlib.util']/class[@name='ZMAsyncURLDownloadFile']" />
+    <remove-node path="/api/package[@name='us.zoom.androidlib.util']/class[@name='ZMDownloadDiscCacheFile']" />
+    <remove-node path="/api/package[@name='us.zoom.androidlib.util']/class[@name='HashMapComparator']" />
+    <remove-node path="/api/package[@name='us.zoom.androidlib.util']/class[@name='AndroidAppUtil.MimeType']" />
+</metadata>
